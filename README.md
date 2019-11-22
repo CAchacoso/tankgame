@@ -3,12 +3,9 @@
 ## Student Name  :Christian Achacoso
 ## Student ID    :917462304
 
-
-## src folder is to be used to store source code only.
-
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
+## Java Version: 9.0.4 
+## DISCLAIMER: MAY BE LAGGY DUE TO OUTDATED JAVA VERSION
+## Working Directory: csc413-tankgame-CAchacoso/src
 
 # How to Import Project
 
