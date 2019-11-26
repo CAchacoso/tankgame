@@ -3,11 +3,16 @@
 ## Student Name  :Christian Achacoso
 ## Student ID    :917462304
 
+## Java Version: 9.0.4 
+## DISCLAIMER: MAY BE LAGGY DUE TO OUTDATED JAVA VERSION
+## Working Directory: csc413-tankgame-CAchacoso/src
 
-## src folder is to be used to store source code only.
+# How to Import Project
 
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
+1) Clone the Repository
+2) On your terminal run, git clone [repo you copied]
 
+<<<<<<< HEAD
 ## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
 
 # How to Import Project
@@ -15,6 +20,8 @@
 1) Clone the Repository
 2) On your terminal run, git clone [repo you copied]
 
+=======
+>>>>>>> 73b7bce4bc08a6de136d4af89e45a4f68e8bdf39
 # How to run the game (Using JAR)
 
 Using the command line:
@@ -57,4 +64,8 @@ The bullets deal -10 health of damage when it hits a tank.
 
 # There are 2 powerups you can obtain when playing:
 Speed Hack (Located top right) - Increses tank speed.
+<<<<<<< HEAD
 Extra Life (Located bottom left - Increase your lives by + 1.
+=======
+Extra Life (Located bottom left) - Increases the amount of lives by + 1.
+>>>>>>> 73b7bce4bc08a6de136d4af89e45a4f68e8bdf39
